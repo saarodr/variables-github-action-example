@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       file_key:
-        description: 'Qcsp8jksQGUWhsIIKD4iUX'
+        description: 'the figma file you want to work with'
         required: true
 
 jobs:
