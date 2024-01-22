@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       file_key:
-        description: 'The file key of the Figma file to be updated'
+        description: 'Qcsp8jksQGUWhsIIKD4iUX'
         required: true
 
 jobs:
